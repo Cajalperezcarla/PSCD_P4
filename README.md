@@ -1,2 +1,2 @@
-# PSCD_P4
-Resolución de la practica 4 de "Programación de sistemas concurrentes y distribuidos".
+# Practica 4 - Programación de sistemas concurrentes y distribuidos
+Podemos encontrar el enunciado de la practica en
